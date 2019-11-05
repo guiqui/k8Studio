@@ -1,23 +1,10 @@
-K8 Studio
+# K8 Studio
 End User’s Software License Agreement
 The software that is subject to this End User’s Software License Agreement (“EULA”, “Agreement”) is the K8 Studio software (the “Software”). This EULA is a legally binding agreement between the end user (the “Licensee” or “you”) and [LicensorCompanyName] (the “Licensor”) pursuant to which the Licensor license the use of the Software to the Licensee. If you are agreeing to this EULA not as an individual but on behalf of your company, then “Licensee” or “you” means your company, and you are binding your company to this EULA.
 
 Any installing, accessing, or using the Software by you (the “Licensee”) constitutes Licensee’s acceptance of, and promise to comply with, all of the terms and conditions of this EULA.
 
-Definitions
-K8 Studio (the “Software”): means the K8 Studio software and includes:
-
-all its components (sejda-console, sejda-conversion, sejda-core, sejda-image-writers, sejda-model, sejda-sambox, sejda-console-pro, sejda-core-pro, sejda-model-pro, sejda-sambox-pro) developed and licensed by Licensor;
-
-any revisions, updates and/or upgrades thereto;
-
-anything in any form whatsoever intended to be used with or in conjunction with the K8 Studio;
-
-any associated media and documentation.
-
-Sejda Task: means one of the PDF documents manipulations available in K8 Studio and accessible from the command line interface and/or API.
-
-License Grants
+# License Grants
 This Agreement grants you a non-exclusive, non-transferable, limited license to the use rights for the Software, without the right to grant sublicense, subject to the terms and conditions in this Agreement. This Agreement grants you the right to execute an unlimited number of times any Sejda Task you have been explicitly granted access by Licensor.
 
 You may install the Software on an unlimited number of Hosts. “Host” means any physical or virtual machine which is controlled by you.
