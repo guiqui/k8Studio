@@ -69,9 +69,13 @@ Projects
 # Tutorials
 
 [Interface Overview](https://youtu.be/TJyXtB5t3cU)
+
 [Creating or Registering a Cluster](https://youtu.be/nnBabVRyDQY)
+
 [Creating a Deployment](https://youtu.be/L3PsJ5sVcFE)
+
 [Creating a Service](https://youtu.be/W5zAcbnmT3A)
+
 [Creating an Ingress](https://youtu.be/hrEdRGBYdso)
 
 
