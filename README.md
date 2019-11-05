@@ -22,6 +22,7 @@ Download the right version.
 
 
 # Features
+
 #### MULTICLUSTER VIEW
 With the multicluster view you can have quick access to your clusters. This will give you a Multi Cluster summary view giving you monitoring information, the applications that have been deployed in the cluster, how many pods are running and how many are pending or have an error. The first time that you open K8 Studio the cluster configuration will be read from your local ./kube/config file. Additional Clusters can be added using the interface.
 Projects
@@ -64,4 +65,13 @@ Projects
 #### EXPORT
 The Cluster View gives you many ways of exporting your objects. You can export a selected element to YAML file or you can dump the full cluster configuration filter by namespaces to project folder. You also have the option to export the existing view to SVG or HTML to help you out with your documentation.
 Projects
+
+# Tutorials
+
+[Interface Overview](https://youtu.be/TJyXtB5t3cU)
+[Creating or Registering a Cluster](https://youtu.be/nnBabVRyDQY)
+[Creating a Deployment](https://youtu.be/L3PsJ5sVcFE)
+[Creating a Service](https://youtu.be/W5zAcbnmT3A)
+[Creating an Ingress](https://youtu.be/hrEdRGBYdso)
+
 
