@@ -10,6 +10,8 @@ You can deploy easily to EKS, GKE, AKS, IBM Cloud or your own bare metal. Connec
 
  To watch a demo take a look at [video](https://youtu.be/ac2jRN1vbkQ) that shows how to use the component.
  
+ [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gquiman)
+
 ## Installation
 Download the right version.
 
