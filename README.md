@@ -12,15 +12,11 @@ You can deploy easily to EKS, GKE, AKS, IBM Cloud or your own bare metal. Connec
  
  [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gquiman)
 
-## Installation
-Download the right version.
+## Subscribe to beta program
+We are busy working on our alpha/beta release.
+You can subscribe to the beta program at 
+[Subscribe](https://k8studio.slack.com/join/shared_invite/)
 
-| OS            | Version   | Link                        |
-| ------------- |:-------:| -----------------------------------:|
-| Mac         | 0.2.12  | [download](https://github.com/guiqui/k8Studio/releases/download/v0.2.12/K8Studio-0.2.12-osx.dmg)  |
-| Window           | 0.2.12     | [download](https://github.com/guiqui/k8Studio/releases/download/v0.2.12/K8Studio-Setup.0.2.12.exe)          |
-| Linux Debian          | 0.2.12   | [download](https://github.com/guiqui/k8Studio/releases/download/v0.2.12/K8Studio-0.2.12-amd64-linux.deb) |
-| Linux Rpm          | 0.2.12   | [download](https://github.com/guiqui/k8Studio/releases/download/v0.2.12/K8Studio-0.2.12-x86_64-linux.rpm) |
 
 
 # Features
