@@ -1,5 +1,5 @@
 {
-  "description": "A kubernetes client",
+  "description": "The Kubernetes IDE",
   "name": "K8Studio",
   "version": "0.1.0",
   "keywords": [
@@ -14,5 +14,5 @@
     "name": "Guillermo Quiros",
     "email": "gquiman@gmail.com",
     "url": "https://uxxu.io"
-  },
+  }
 }
