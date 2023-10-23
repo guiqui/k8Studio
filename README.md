@@ -1,20 +1,20 @@
 
 
 # K8 Studio
-![screencast](https://media.giphy.com/media/eHjRZn9eoX6Ca670dD/giphy.gif)
+![screencast](https://k8studio.io/static/images/deployment_view.jpg)
 ## About
 K8 Studio is a cross-platform client IDE to manage Kubernetes Clusters.
 You can deploy easily to EKS, GKE, AKS, IBM Cloud or your own bare metal. Connect to your cluster and have a graphical representation of your nodes, pods, services, etc. Access logs, element descriptions and bash terminal with a single click.
 
 
 
- To watch a demo take a look at [video](https://youtu.be/ac2jRN1vbkQ) that shows how to use the component.
+ To watch a demo take a look at [video](https://youtu.be/tYMUfhlKFgU) that shows how to use the component.
  
 
-## Subscribe to beta program
+## Join K8Studio Community
 We are busy working on our alpha/beta release.
-You can subscribe to the beta program at 
-[Subscribe](https://k8studio.slack.com/join/shared_invite/)
+You Join our 
+[Slack Channel](https://k8studio.slack.com/join/shared_invite/)
 
 
 
@@ -35,10 +35,10 @@ Projects
 #### TOOLBOX
 The Toolbox contains all of the object types available in Kubernetes classified in workloads, network, storage configuration and security. You can select an element in the Toolbox and drag and drop to the Interactive View or the Project Tree. This will create an object and its corresponding file with the right minimal content.
 Projects
-#### MAGIC TREE
-Once an element is selected, the Editor View provides with many ways of editing the content of the elements. Our favourite one is the Magic Tree. The Magic Tree gives a structured representation of the YML of the file. Because it is aware of the JSON Schema of the object, it gives you the right suggestion when adding elements, can validate the file and can provide you with the description of the properties so you can know what they are used for.
+#### QUICK EDITOR
+Once an element is selected, the Editor View provides with many ways of editing the content of the elements. Our favourite one is the Quick Editor. The Quick Editor gives a structured representation of the YML of the file. Because it is aware of the JSON Schema of the object, it gives you the right suggestion when adding elements, can validate the file and can provide you with the description of the properties so you can know what they are used for.
 
-The Magic Tree provides access to the many Helpers:
+The Quick Editor provides access to the many Helpers:
 
 Docker: To quickly find the image that you are looking for.
 Label: To find the available labels in your cluster or configuration context.
@@ -53,9 +53,7 @@ Projects
 #### CONFIGURATION
 With the configmap and secret view you can easily manage your configurations, delete, create new ones or modify the key value pairs.When working with secrest we also help you out with our inline base64 encoder and decoder.
 Projects
-#### RBAC EDITOR
-The Cluster View provides a comprehensive RBAC Editor. You can add user accounts, service accounts, cluster roles and roles. You can bind users to roles and you can have a view of the rules applied to the users.Also you can easily visualize the combinations of permissions that a Service account or a role has.
-Projects
+
 #### SSH AND LOGS
 If you have a pod or node selected you can connect with SSH to access the machine or read their logs using our built in Terminal.No need to remember any command line or address.
 Projects
@@ -63,17 +61,6 @@ Projects
 The Cluster View gives you many ways of exporting your objects. You can export a selected element to YAML file or you can dump the full cluster configuration filter by namespaces to project folder. You also have the option to export the existing view to SVG or HTML to help you out with your documentation.
 Projects
 
-# Tutorials
-
-[Interface Overview](https://youtu.be/TJyXtB5t3cU)
-
-[Creating or Registering a Cluster](https://youtu.be/nnBabVRyDQY)
-
-[Creating a Deployment](https://youtu.be/L3PsJ5sVcFE)
-
-[Creating a Service](https://youtu.be/W5zAcbnmT3A)
-
-[Creating an Ingress](https://youtu.be/hrEdRGBYdso)
 
 
 
