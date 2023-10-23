@@ -14,7 +14,7 @@ You can deploy easily to EKS, GKE, AKS, IBM Cloud or your own bare metal. Connec
 ## Join K8Studio Community
 We are busy working on our alpha/beta release.
 You Join our 
-[Slack Channel](https://k8studio.slack.com/join/shared_invite/)
+[Slack Channel](https://join.slack.com/t/k8studio/shared_invite/enQtNjgxMDU1NzkzMDc0LWM0ZTc3MjU5ZGIzN2MxMDhkOGFjOGNjYmU1YzI3YzRmMjUzNmU5ZjMxZTVlODMwZDY3ODY1NjhlM2NhYjVlODQ)
 
 
 
