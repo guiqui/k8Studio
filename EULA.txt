@@ -1,32 +1,55 @@
-End-User License Agreement (EULA) of K8Studio
-This End-User License Agreement ("EULA") is a legal agreement between you and UxxU Ltd
-This EULA agreement governs your acquisition and use of our K8Studio software ("Software") directly from UxxU Ltd or indirectly through a UxxU Ltd authorized reseller or distributor (a "Reseller").
+End-User License Agreement (EULA) of K8Studio:
+
+This End-User License Agreement ("EULA") is a legal agreement between you and CloudOps S.L.
+This EULA agreement governs your acquisition and use of our K8Studio software ("Software") directly from CloudOps S.L. or indirectly through a CloudOps S.L. authorized reseller or distributor (a "Reseller").
 Please read this EULA agreement carefully before completing the installation process and using the K8Studio software. It provides a license to use the K8Studio software and contains warranty information and liability disclaimers.
 If you register for a free trial of the K8Studio software, this EULA agreement will also govern that trial. By clicking "accept" or installing and/or using the K8Studio software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
 If you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
-This EULA agreement shall apply only to the Software supplied by UxxU Ltd here with regardless of whether other software is referred to or described herein. The terms also apply to any UxxU Ltd updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
+This EULA agreement shall apply only to the Software supplied by CloudOps S.L. here with regardless of whether other software is referred to or described herein. The terms also apply to any CloudOps S.L. updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
 
 License Grant
-UxxU Ltd hereby grants you a personal, non-transferable, non-exclusive licence to use the K8Studio software on your devices in accordance with the terms of this EULA agreement.
+CloudOps S.L. hereby grants you a personal, non-transferable, non-exclusive licence to use the K8Studio software on your devices in accordance with the terms of this EULA agreement.
 You are permitted to load the K8Studio software (for example a PC, laptop, mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the K8Studio software.
 
 You are not permitted to:
 Edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software nor permit the whole or any part of the Software to be combined with or become incorporated in any other software, nor decompile, disassemble or reverse engineer the Software or attempt to do any such things
 Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose
 Allow any third party to use the Software on behalf of or for the benefit of any third party
-Use the Software in any way which breaches any applicable local, national or international law
-use the Software for any purpose that UxxU Ltd considers is a breach of this EULA agreement
-Intellectual Property and Ownership
-UxxU Ltd shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of UxxU Ltd.
-UxxU Ltd reserves the right to grant licences to use the Software to third parties.
+Use the Software in any way which breaches any applicable local, national or international law.
+Use the Software for any purpose that CloudOps S.L. considers is a breach of this EULA agreement
 
-Disclaimer Limitation of Liability. 
-IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL LOSS OR DAMAGES DUE TO ANY CAUSE WHATSOEVER, INCLUDING DAMAGES CAUSED BY THE NEGLIGENCE OF A PARTY, 
-ITS EMPLOYEES OR AGENTS OR OTHERWISE.
+Intellectual Property and Ownership
+CloudOps S.L. shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of CloudOps S.L..
+CloudOps S.L. reserves the right to grant licences to use the Software to third parties.
+
+Disclaimer and Limitation of Liability
+
+1. Disclaimer of Warranty
+
+a. No Warranties. THE SOFTWARE AND ANY ACCOMPANYING DOCUMENTATION ARE PROVIDED BY CLOUDOPS S.L. "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE UNDER APPLICABLE LAW, CLOUDOPS S.L. DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+b. No Guarantee of Error-Free Operation. CLOUDOPS S.L. DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT THE OPERATION OF THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED. YOU ASSUME FULL RESPONSIBILITY FOR SELECTING THE SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS AND FOR THE INSTALLATION, USE, AND RESULTS OBTAINED FROM THE SOFTWARE.
+
+2. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL CLOUDOPS S.L. BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES WHATSOEVER, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR INABILITY TO USE THE SOFTWARE, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, OR OTHERWISE) AND EVEN IF CLOUDOPS S.L. HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+IN NO EVENT SHALL CLOUDOPS S.L.'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES (OTHER THAN AS MAY BE REQUIRED BY APPLICABLE LAW IN CASES INVOLVING PERSONAL INJURY) EXCEED THE AMOUNT YOU PAID FOR THE SOFTWARE.
+
+3. Essential Purpose
+
+YOU ACKNOWLEDGE AND AGREE THAT THIS DISCLAIMER AND LIMITATION OF LIABILITY ARE FUNDAMENTAL ELEMENTS OF THE AGREEMENT BETWEEN YOU AND CLOUDOPS S.L., AND THAT CLOUDOPS S.L. WOULD NOT BE ABLE TO PROVIDE THE SOFTWARE ON AN ECONOMICALLY REASONABLE BASIS WITHOUT SUCH LIMITATIONS.
+
+4. Basis of the Bargain
+
+YOU AGREE THAT THE DISCLAIMER AND LIMITATION OF LIABILITY PROVISIONS SET FORTH IN THIS AGREEMENT REFLECT A FAIR AND REASONABLE ALLOCATION OF RISK BETWEEN YOU AND CLOUDOPS S.L., AND THAT THE DISCLAIMER AND LIMITATION OF LIABILITY PROVISIONS FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN THE PARTIES.
+
+
+
 
 Termination
-This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to UxxU Ltd.
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to CloudOps S.L..
 It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
 
 Governing Law
-This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of New Zealand.
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of Spain.
