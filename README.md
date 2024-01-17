@@ -1,6 +1,6 @@
 
 
-# K8 Studio
+# K8Studio
 ![screencast](https://k8studio.io/static/images/deployment_view.jpg)
 ## About
 K8 Studio is a cross-platform client IDE to manage Kubernetes Clusters.
