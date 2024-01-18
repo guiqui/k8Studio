@@ -7,7 +7,7 @@ K8 Studio is a cross-platform client IDE to manage Kubernetes Clusters.
 You can deploy easily to EKS, GKE, AKS, IBM Cloud, or your own bare metal. Connect to your cluster and have a graphical representation of your nodes, pods, services, etc. Access logs, element descriptions, and bash terminal with a single click.
 
 For more info visit our website [k8studio](https://k8studio.io)
-To watch a demo take a look at [video](https://youtu.be/tYMUfhlKFgU) that shows how to use the component.
+To watch a demo take a look at [our youtube channel](https://www.youtube.com/channel/UC84bcmR2JVP8MBeLEjXxHIA) that shows how to use the component.
 
 
 ## Join K8Studio Community
