@@ -21,7 +21,7 @@ You can join our
 #### MULTICLUSTER VIEW
 With the multicluster view, you can have quick access to your clusters. This will give you a Multi Cluster summary view, providing you with monitoring information, the applications that have been deployed in the cluster, how many pods are running, and how many are pending or have an error. The first time that you open K8 Studio, the cluster configuration will be read from your local ./kube/config file. Additional Clusters can be added using the interface.
 Project
-
+![screencast](https://github.com/guiqui/k8Studio/blob/master/ClusterView.jpg)
 #### DEPLOYMENT VIEW
 With the interactive deployment cluster view you can quickly visualize the different workloads, their status and configuration, their network topology, their pods, pods status, the pod version running, rollouts and rollbacks. You can change any configuration by simply using the interface to add, delete, edit and push the changes to the cluster, all without needing to remember the right command.
 
