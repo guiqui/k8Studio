@@ -24,17 +24,18 @@ Project
 ![screencast](https://github.com/guiqui/k8Studio/blob/master/ClusterView.jpg)
 #### DEPLOYMENT VIEW
 With the interactive deployment cluster view you can quickly visualize the different workloads, their status and configuration, their network topology, their pods, pods status, the pod version running, rollouts and rollbacks. You can change any configuration by simply using the interface to add, delete, edit and push the changes to the cluster, all without needing to remember the right command.
+![screencast](https://github.com/guiqui/k8Studio/blob/master/Deployment.png)
 
 #### GRID VIEW
 Grid View isn't just about the big picture; it's your gateway to an ocean of in-depth information, helping you understand, troubleshoot, and optimize your Kubernetes infrastructure like never before.\
 ![screencast](https://github.com/guiqui/k8Studio/blob/master/Grid.png)
 
 #### RBAC MANAGER
-Manage your users, groups, service accounts, and roles using the K8Studio RBAC intuitive interface.
+Effortlessly handle users, groups, service accounts, and roles using the intuitive RBAC interface in K8Studio. Simplify access control, configure permissions, and efficiently manage role assignments within your Kubernetes environment. With the RBAC Manager, enhancing the security and control of your clusters has never been easier.
 ![screencast](https://github.com/guiqui/k8Studio/blob/master/Rbac.png)
 
 #### HELM MANAGER
-Manage your charts and helm release with The K8Studio Helm Manager
+Simplify chart and Helm release management with the K8Studio Helm Manager. Streamline the installation, monitoring, and oversight of your Helm charts, making your Kubernetes operations more efficient.
 ![screencast](https://github.com/guiqui/k8Studio/blob/master/Helm.png)
 
 #### NODE VIEW
