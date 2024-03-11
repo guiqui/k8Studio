@@ -58,6 +58,7 @@ Volume: To find the PVS, PVCS or storage Classes in your cluster or configuratio
 RBAC: To look for services accounts and understand roles and rules.
 Secret: To find the secrets in your cluster or configuration context.
 Configmap: To find the Configmaps in your cluster or configuration context.
+![screencast](https://github.com/guiqui/k8Studio/blob/master/QuickEditor.png)
 
 #### YML EDITOR
 We have also included a YML Editor for all of you that are familiar with YML and the object structure of Kubernetes. The YML Editor includes syntax highlighter and keyword auto-completion. Once a YML file has been edited, the content gets validated, then the interface reflects the changes and K8s Studio updates the files.
