@@ -25,6 +25,10 @@ Project
 #### DEPLOYMENT VIEW
 With the interactive deployment cluster view you can quickly visualize the different workloads, their status and configuration, their network topology, their pods, pods status, the pod version running, rollouts and rollbacks. You can change any configuration by simply using the interface to add, delete, edit and push the changes to the cluster, all without needing to remember the right command.
 
+#### GRID VIEW
+Grid View isn't just about the big picture; it's your gateway to an ocean of in-depth information, helping you understand, troubleshoot, and optimize your Kubernetes infrastructure like never before.\
+![screencast](https://github.com/guiqui/k8Studio/blob/master/Grid.png)
+
 #### RBAC MANAGER
 Manage your users, groups, service accounts, and roles using the K8Studio RBAC intuitive interface.
 ![screencast](https://github.com/guiqui/k8Studio/blob/master/Rbac.png)
