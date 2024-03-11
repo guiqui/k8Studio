@@ -25,6 +25,12 @@ Project
 #### DEPLOYMENT VIEW
 With the interactive deployment cluster view you can quickly visualize the different workloads, their status and configuration, their network topology, their pods, pods status, the pod version running, rollouts and rollbacks. You can change any configuration by simply using the interface to add, delete, edit and push the changes to the cluster, all without needing to remember the right command.
 
+#### RBAC MANAGER
+Manage your users, groups, service accounts, and roles using the K8Studio RBAC intuitive interface.
+
+#### HELM MANAGER
+Manage your charts and helm release with The K8Studio Helm Manager
+
 #### NODE VIEW
 The node cluster view will show you all the nodes that are running, what type of node, the pod and the containers that are running in each pod. For each one of the pods, it will show the status, the services and ingresses. With this information it will draw the network topology showing port, addresses and dependencies, PVCS, PV and Storage Classes will also be displayed showing all the relevant information. Once the view is opened it will be connected to the events of the Kubernetes API which means that the data is live and updated.
 
