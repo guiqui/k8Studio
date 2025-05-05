@@ -27,7 +27,7 @@ Here’s what you’ll get in the latest release:
 Explore the new version and upgrade today:  
 👉 [K8Studio v3 on GitHub](https://github.com/K8Studio/K8studio)
 
-[![Watch the video](K8StudioThumb.png)](https://youtu.be/1RTTEUEl9sc)
+[![Watch the video](K8StudioThumbV3.png)](https://youtu.be/1RTTEUEl9sc)
 
 Thanks for growing with us,  
 # K8Studio
