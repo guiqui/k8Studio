@@ -30,7 +30,7 @@ Explore the new version and upgrade today:
 [![Watch the video](K8StudioThumbV3.png)](https://youtu.be/1RTTEUEl9sc)
 
 Thanks for growing with us,  
-# K8Studio
+# K8Studio V2
 [![Watch the video](K8StudioThumb.png)](https://youtu.be/_jad84k6zfU)
 
 ## About
