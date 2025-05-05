@@ -1,3 +1,35 @@
+# 📢 Announcement: Version 2 in Maintenance Mode — Welcome to Version 3!
+
+We’re thrilled to share that **K8Studio Version 3** is now live! 🎉  
+You can find it here: [K8Studio Version 3 on GitHub](https://github.com/K8Studio/K8studio)
+
+As of today, **Version 2 has officially entered maintenance mode**.  
+That means:
+- 🛠️ Only critical bug fixes and security patches will be provided for V2.
+- ❌ No new features or major updates will be added.
+- ✅ We highly recommend upgrading to **Version 3** for the latest capabilities and ongoing support.
+
+---
+
+## 🚀 What’s New in Version 3?
+
+Here’s what you’ll get in the latest release:
+
+✅ **Multicluster support** — Manage multiple Kubernetes clusters in one unified workspace  
+⚡ **Faster cluster loading** — Get up and running quicker than ever  
+🧩 **Custom multi-window layouts** — Full control over your workspace organization  
+📄 **Advanced logging** — Deployment-level views, container selection, live tailing, and time-range filtering  
+🔐 **Dedicated Permissions View** — Easily understand access levels and troubleshoot RBAC issues  
+🤖 **Integrated AI Copilot** — Powered by OpenAI, it understands your context and offers smart, contextual help
+
+---
+
+Explore the new version and upgrade today:  
+👉 [K8Studio v3 on GitHub](https://github.com/K8Studio/K8studio)
+
+[![Watch the video](K8StudioThumb.png)](https://youtu.be/1RTTEUEl9sc)
+
+Thanks for growing with us,  
 # K8Studio
 [![Watch the video](K8StudioThumb.png)](https://youtu.be/_jad84k6zfU)
 
